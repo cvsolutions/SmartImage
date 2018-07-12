@@ -3,6 +3,8 @@ SmartImage
 
 Smart image resizing and thumbnail generation
 
+Example: https://www.codicefacile.it/php/miniature-di-immagini-con-php
+
 Installation
 ------------
 Using Composer (recommended) [composer](http://getcomposer.org "composer - package manager").
